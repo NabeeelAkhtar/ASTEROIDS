@@ -5,5 +5,5 @@ University of Essex,
 Made for CE218 Assignment - March 2019.
 By Nabeel Akhtar
 
-For queries email: nabeelakhtar738@gmail.com OR na17471@gmail.com
+For queries email: nabeelakhtar738@gmail.com OR na17471@essex.ac.uk
 
